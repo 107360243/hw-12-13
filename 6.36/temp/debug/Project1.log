@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.cpp
+c:\users\user\desktop\學校作業\程式作業\107360243_林庭佑8\6.36\source\source.cpp(8): error C2133: 's': 未知的大小
+c:\users\user\desktop\學校作業\程式作業\107360243_林庭佑8\6.36\source\source.cpp(11): error C2660: 'getchar': 函式不使用 1 引數
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(306): note: 請參閱 'getchar' 的宣告

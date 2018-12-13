@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.cpp
+c:\users\user\desktop\學校作業\程式作業\107360243_林庭佑8\6.37\source\source.cpp(6): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+c:\users\user\desktop\學校作業\程式作業\107360243_林庭佑8\6.37\source\source.cpp(18): error C2562: 'main': 'void' 函式傳回一個值
+  c:\users\user\desktop\學校作業\程式作業\107360243_林庭佑8\6.37\source\source.cpp(5): note: 請參閱 'main' 的宣告
